@@ -13,4 +13,8 @@ margin_left = -40.5
 margin_top = -7.0
 margin_right = 40.5
 margin_bottom = 7.0
-text = "Hare Krishna"
+text = "Hare Krishna
+Radhe Radhe"
+__meta__ = {
+"_edit_use_anchors_": false
+}
